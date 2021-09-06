@@ -1,2 +1,2 @@
 # To-Do-List
-This repository contains project done to practice Django by following a YouTube tutorial.
+This repository contains a project done to practice Django by following a YouTube tutorial.
